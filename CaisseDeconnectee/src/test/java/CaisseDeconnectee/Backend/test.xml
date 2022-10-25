@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd"> 
+<suite name="myTest" allow-return-values="true" verbose="3"> 
+<test name="Authentification">
+
+<classes>
+
+<class name="CaisseDeconnectee.Backend.storyRunner"/>
+
+</classes>
+
+</test>
+
+</suite>
